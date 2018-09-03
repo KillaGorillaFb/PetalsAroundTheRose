@@ -1,0 +1,29 @@
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe.config
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.pdb
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csprojResolveAssemblyReference.cache
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.PetalsApp.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.Properties.Resources.resources
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.GenerateResource.Cache
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.exe
+\\otc.edu\stures\stuhome\kb0783332\CisTest2\Cis-151 Assignments\PetalsAroundTheRoseGame\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.pdb
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe.config
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.pdb
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csprojAssemblyReference.cache
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.PetalsApp.resources
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.Properties.Resources.resources
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.GenerateResource.cache
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.CoreCompileInputs.cache
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.exe
+C:\Users\barri\Downloads\Petals-Around-the-Roses-master\Petals-Around-the-Roses-master\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.pdb
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe.config
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.exe
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\bin\Debug\PetalsAroundTheRoseGame.pdb
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csprojAssemblyReference.cache
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.PetalsApp.resources
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.Properties.Resources.resources
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.GenerateResource.cache
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.csproj.CoreCompileInputs.cache
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.exe
+C:\Users\barri\Desktop\PetalAroundTheRose\PetalsAroundTheRoseGame\obj\Debug\PetalsAroundTheRoseGame.pdb
